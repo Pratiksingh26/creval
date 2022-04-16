@@ -1,0 +1,22 @@
+{
+  "add-country": [
+    {
+      "country": "india",
+      "id": 1
+    },
+    {
+      "country": "switzerland",
+      "id": 2
+    }
+  ],
+  "add-city": [
+    {
+      "city": "Nagpur",
+      "id": 1
+    },
+    {
+      "city": "mumbai",
+      "id": 2
+    }
+  ]
+}
